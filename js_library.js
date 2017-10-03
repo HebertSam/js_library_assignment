@@ -36,6 +36,7 @@ var _ = {
                 newArray.push(array[i]);
             }
         }
+        return newArray;
     }
   }
  // you just created a library with 5 methods!
